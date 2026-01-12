@@ -4,6 +4,19 @@ A modern, visually impressive analytics dashboard built with React, featuring re
 
 ![PulseBoard Dashboard](https://img.shields.io/badge/PulseBoard-Analytics-7c3aed?style=for-the-badge)
 
+## 📸 Dashboard Preview
+
+<p align="center">
+  <img src="C:\Users\Roshal\Desktop\i1.jpeg" width="45%" />
+  <img src="C:\Users\Roshal\Desktop\i2.jpeg" width="45%" />
+</p>
+
+<p align="center">
+  <img src="C:\Users\Roshal\Desktop\i3.jpeg" width="45%" />
+  <img src="C:\Users\Roshal\Desktop\i4.jpeg" width="45%" />
+</p>
+
+
 ## ✨ Features
 
 - **📊 Interactive Charts** - Revenue trends, traffic sources, performance metrics using Recharts
@@ -112,3 +125,4 @@ The project uses a custom dark theme with:
 ## 📄 License
 
 This project is open source and available under the MIT License.
+
